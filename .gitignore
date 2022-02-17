@@ -1,2 +1,3 @@
 ec2/.terraform/plugins/
 vpc/.terraform/plugins/
+vendor/
